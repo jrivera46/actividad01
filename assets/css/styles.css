@@ -1,0 +1,67 @@
+.head{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    display: flex;
+    align-items: center;
+    
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.navbar{
+    display:flex;
+    align-items: center;
+    width: 100%;
+    background: #404040; 
+    
+}
+
+.navbar ul li{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbar ul li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 20px;
+    text-decoration: none;
+}
+.navbar ul {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-right: 30px;
+
+}
+li a:hover {
+    background-color: #3c865d91;
+  }
+  
+.activo {
+    background-color: #cf0909;
+  }
+
+.navbar .formulario{
+    margin-left: auto;
+   
+    
+}
+
+.containerp1{
+    margin-top: 1rem;
+    padding: 32px 16px;
+    background-color: #e9ecef;
+    border-radius: 0.5rem;
+    text-align: center;
+
+}
+
+
