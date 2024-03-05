@@ -11,15 +11,14 @@ body{
     padding: 0;
     margin: 0;
     border: 0;
-    background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(135deg, #a2c0cc, #fceea7);
 }
 
 .navbar{
     display:flex;
     align-items: center;
     width: 100%;
-    background: #404040; 
+    background: beige; 
     
 }
 
@@ -31,7 +30,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(
 }
 
 .navbar ul li a{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 20px;
     text-decoration: none;
@@ -48,7 +47,7 @@ li a:hover {
   }
   
 .activo {
-    background-color: #cf0909;
+    background-color: #ff6961;
   }
 
 .navbar .formulario{
@@ -77,6 +76,6 @@ li a:hover {
 
 h1{
     display: flex;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     justify-content: center;
 }

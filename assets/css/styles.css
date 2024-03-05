@@ -17,7 +17,7 @@ body{
     display:flex;
     align-items: center;
     width: 100%;
-    background: #404040; 
+    background:beige; 
     
 }
 
@@ -29,7 +29,7 @@ body{
 }
 
 .navbar ul li a{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 20px;
     text-decoration: none;
@@ -46,7 +46,7 @@ li a:hover {
   }
   
 .activo {
-    background-color: #cf0909;
+    background-color: #ff6961
   }
 
 .navbar .formulario{
@@ -58,7 +58,7 @@ li a:hover {
 .containerp1{
     margin-top: 1rem;
     padding: 32px 16px;
-    background-color: #e9ecef;
+    background-color: #b2e2f2;
     border-radius: 0.5rem;
     text-align: center;
 
